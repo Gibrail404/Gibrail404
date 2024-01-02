@@ -26,6 +26,7 @@
 <a href="https://instagram.com/gibrail00" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="gibrail00" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCMSBzg4UR4uZSg9LkbIiwkA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" alt="gibrail zaidi" height="30" width="40" /></a>
 <a href="https://leetcode.com/gibrailzaidi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LeetCode_logo_black.png/640px-LeetCode_logo_black.png" alt="gibrail zaidi" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

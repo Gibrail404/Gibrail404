@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gibrailzaidi@gmail.com**
 
-- ⚡ Fun fact **Coding: Where semicolons are storytellers !**
+- ⚡ Fun fact ** Roses are Red, Violets are Blue, Unexpected '{' on line 32 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

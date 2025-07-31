@@ -46,7 +46,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
-
+![YOLO Badge](https://img.shields.io/badge/YOLO-%F0%9F%92%AA%20Pushes-orange?style=flat-square)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibrail404&show_icons=true&locale=en&layout=compact" alt="gibrail404" /></p>
 

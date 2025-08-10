@@ -1,5 +1,6 @@
 ![Header](https://cdn-learn.adafruit.com/assets/assets/000/112/603/original/programming_GFP_GPHG_preview.png?1656018137)
 <h1 align="center">
+
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gibrail+Zaidi!;" />
 </h1>
 

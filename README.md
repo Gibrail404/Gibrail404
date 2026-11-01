@@ -1,65 +1,35 @@
-![Header](https://cdn-learn.adafruit.com/assets/assets/000/112/603/original/programming_GFP_GPHG_preview.png?1656018137)
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gibrail+Zaidi!;" />
-</h1>
+# Hi, I'm Gibrail Zaidi 👋
 
-<h3 align="center">A passionate Software developer from India</h3>
+### Applied AI Engineer | LLM agents, MCP and human-in-the-loop systems
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+I build and ship production AI agents for e-commerce brands: multi-agent systems that run experiments, generate catalog content and publish SEO pages on live stores, with quality gates and human approval before anything goes live.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gibrail404&label=Profile%20views&color=0e75b6&style=flat" alt="gibrail404" /> </p>
+## What I work on
 
-<p align="left"> <a href="https://twitter.com/zaidigibrail" target="blank"><img src="https://img.shields.io/twitter/follow/zaidigibrail?logo=twitter&style=for-the-badge" alt="zaidigibrail" /></a> </p>
+- Multi-agent systems and MCP-based tools
+- LLM applications, RAG and AI evaluation
+- Experimentation, personalization and generative commerce
+- Reliable backend pipelines: Node.js, NestJS, PostgreSQL, Redis, queues, AWS and Docker
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gibrail404](https://github.com/Gibrail404)
+## Tech stack
 
-- 💬 Ask me about **MERN , JAVA ,Node.js, React... or anything**
+- **AI / LLM:** LLM tool calling, agents, MCP, RAG, vector databases (Pinecone, Qdrant), LangChain, TensorFlow.js
+- **Backend:** TypeScript, Node.js, NestJS, Express.js, PostgreSQL, MongoDB, MySQL, Redis, BullMQ
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Cloud and tools:** AWS, Docker, GitHub Actions CI/CD, Git
 
-- 📫 How to reach me **gibrailzaidi@gmail.com**
+## Selected projects
 
-- ⚡ Fun fact **Roses are Red, Violets are Blue, Unexpected '{' on line 32**
+- [face_forward](https://github.com/Gibrail404/face_forward): face-recognition employee attendance system with anti-spoofing (office hackathon winner). React, Node.js, MongoDB, face-api.js, TensorFlow.js.
+- [SmartLeads-AI_CRM](https://github.com/Gibrail404/SmartLeads-AI_CRM): AI-powered CRM with Gemini lead scoring, analytics dashboard, JWT roles, Docker and CI/CD.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zaidigibrail" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="zaidigibrail" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/gibrail-zaidi-20023b225/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="gibrail zaidi" height="30" width="30" /></a>
-<a href="https://instagram.com/gibrail00" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="gibrail00" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCMSBzg4UR4uZSg9LkbIiwkA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" alt="gibrail zaidi" height="30" width="40" /></a>
-<a href="https://leetcode.com/gibrailzaidi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LeetCode_logo_black.png/640px-LeetCode_logo_black.png" alt="gibrail zaidi" height="30" width="30" /></a>
+## Writing
 
-</p>
+- [Why an AI Agent Should Never Say "Done" Until It Has Checked](https://medium.com/@gibrailzaidi/why-an-ai-agent-should-never-say-done-until-it-has-checked-b7a6f9748ed5)
+- More on [Medium](https://medium.com/@gibrailzaidi): system design, Docker and AI integration
 
-<h3 align="left">Languages and Tools:</h3>
+## Connect
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibrail404&show_icons=true&locale=en&layout=compact" alt="gibrail404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gibrail404&show_icons=true&locale=en" alt="gibrail404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gibrail404&" alt="gibrail404" /></p>
-
+- LinkedIn: [linkedin.com/in/gibrailzaidi](https://www.linkedin.com/in/gibrailzaidi/)
+- Medium: [@gibrailzaidi](https://medium.com/@gibrailzaidi)
+- Email: gibrailzaidi@gmail.com

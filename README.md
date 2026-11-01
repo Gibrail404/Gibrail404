@@ -4,14 +4,14 @@
 
 ## About
 
-I am an Applied AI Engineer. I build and ship production AI agents for e-commerce brands: multi-agent systems that run experiments, generate catalog content and publish SEO pages on live stores, with quality gates and human approval before anything goes live.
+I am an Applied AI Engineer. I build and ship production AI agents: multi-agent systems that run experiments, generate content and automate real workflows, with quality gates and human approval before anything goes live.
 
 ## Focus areas
 
 - Multi-agent systems and MCP-based tools
 - LLM applications, RAG and AI evaluation
 - Agent reliability: quality gates, guardrails and human approval
-- Experimentation, personalization and generative commerce
+- Experimentation, personalization and generative AI products
 
 ## AI stack
 

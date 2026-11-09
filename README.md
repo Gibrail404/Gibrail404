@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Gibrail Zaidi, Applied AI Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Gibrail Zaidi, Software Developer building AI products" width="100%">
 </p>
 
 ## About
 
 I work on applied AI: LLM agents, MCP tools and AI data pipelines for e-commerce at a startup, plus SafePay Command, a deployed AI payment-risk platform. I care about quality gates, human approval before anything risky, and measuring results honestly, including the ones that did not work.
+
+## SafePay Command in 25 seconds
+
+<p align="center">
+  <img src="assets/safepay-flow.gif" alt="How SafePay Command decides one payment: a risk model scores it, an LLM asks questions behind a safety gateway, versioned rules decide, and every step is recorded in a hash-chained ledger" width="720">
+</p>
+
+<p align="center"><a href="https://safepay-command.vercel.app">Live demo</a> | <a href="https://github.com/Gibrail404/safepay-command">Code</a> | simulated example, evaluated on held-out data</p>
 
 ## Focus areas
 

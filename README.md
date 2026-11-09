@@ -4,7 +4,7 @@
 
 ## About
 
-I am an Applied AI Engineer. I build and ship production AI agents: multi-agent systems that run experiments, generate content and automate real workflows, with quality gates and human approval before anything goes live.
+I work on applied AI: LLM agents, MCP tools and AI data pipelines for e-commerce at a startup, plus SafePay Command, a deployed AI payment-risk platform. I care about quality gates, human approval before anything risky, and measuring results honestly, including the ones that did not work.
 
 ## Focus areas
 
@@ -24,6 +24,7 @@ I am an Applied AI Engineer. I build and ship production AI agents: multi-agent 
 
 | Project | What it does |
 | --- | --- |
+| [SafePay Command](https://github.com/Gibrail404/safepay-command) ([live demo](https://safepay-command.vercel.app)) | AI payment-risk platform: LightGBM risk model, versioned rules, LLM steps behind a safety gateway, sanctions screening and a tamper-evident audit ledger. Evaluated on held-out data. |
 | [face_forward](https://github.com/Gibrail404/face_forward) | Face-recognition employee attendance with anti-spoofing. Office hackathon winner. |
 | [SmartLeads-AI_CRM](https://github.com/Gibrail404/SmartLeads-AI_CRM) | AI-powered CRM with Gemini lead scoring, analytics dashboard and CI/CD. |
 
